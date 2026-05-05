@@ -1,4 +1,4 @@
-# ML4N_Seminars
+# ML4N_Seminars-Labs
 ## CONTRIBUTORS
 
 Aina Tolsanas Revert (u232496)  
